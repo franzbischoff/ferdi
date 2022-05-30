@@ -1,5 +1,5 @@
 [submodule "recipes"]
 	path = recipes
-	url = https://github.com/palepinkdot/tycho/recipes.git
+	url = https://github.com/franzbischoff/ferdirecipes
 	ignore = all
 	branch = master
