@@ -15,8 +15,8 @@ jobs:
       security-events: write
     steps:
     - uses: actions/checkout@v2
-    - name: Install modules
-      run: yarn
+#    - name: Install modules
+#      run: yarn
     - name: Run ESLint
       run: eslint . --config .eslintrc.js --ext .js,.jsx,.ts,.tsx --format @microsoft/eslint-formatter-sarif --output-file eslint-results.sarif
       continue-on-error: true
