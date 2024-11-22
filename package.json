@@ -85,7 +85,7 @@
     "minimist": "^1.2.6",
     "mobx": "^5.15.0",
     "mobx-localstorage": "^1.2.0",
-    "mobx-react": "^6.3.1",
+    "mobx-react": "^9.1.1",
     "mobx-react-form": "^2.0.9",
     "mobx-react-router": "^3.1.2",
     "moment": "^2.29.4",
